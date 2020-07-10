@@ -1,7 +1,7 @@
 # webappDH
 aula modelos em produção (deploy)
 
-Modelo em produção para recomendação de bandas
+Modelo em produção para recomendação de bandas e artistas
 
 Modelo de machine learning não supervisionado. Unsupervised Nearest Neighbors
 
